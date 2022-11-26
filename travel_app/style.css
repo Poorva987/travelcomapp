@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    background-image: url("https://previews.123rf.com/images/nortongo/nortongo1702/nortongo170200148/71682047-summer-holiday-background-travel-and-vacation-items-on-wooden-table-top-view.jpg");
+}
+.h{
+text-align: center;
+margin-top: 13%;
+}
+form{
+    display: inline-block;
+}
